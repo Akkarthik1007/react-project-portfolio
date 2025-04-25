@@ -1,4 +1,4 @@
-# ⚛️ AK Projects - React Portfolio
+# ⚛️ React Projects - Portfolio
 
 A sleek and responsive personal portfolio built using **React JS**, showcasing a collection of web development projects. This site reflects my skills in modern front-end technologies and component-based architecture.
 
